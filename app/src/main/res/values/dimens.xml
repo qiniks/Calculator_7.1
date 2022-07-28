@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="pdS">32dp</dimen>
+    <dimen name="zW">178dp</dimen>
+    <dimen name="mH">18dp</dimen>
+    <dimen name="pdV">6dp</dimen>
+    <dimen name="mHT">36dp</dimen>
+    <dimen name="tS">80sp</dimen>
+</resources>
